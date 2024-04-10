@@ -1,0 +1,15 @@
+<Class>
+    <Student>
+        <id>1</id>
+        <name>John Doe</name>
+        <address>123 Main St</address>
+        <dateOfBirth>2000-01-01</dateOfBirth>
+    </Student>
+    <Student>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <address>456 Elm St</address>
+        <dateOfBirth>1998-05-15</dateOfBirth>
+    </Student>
+    <!-- Các sinh viên khác -->
+</Class>
